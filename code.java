@@ -3,8 +3,8 @@ import java.util.*;
 
 /*
  * Personal Budget Tracker and Expense Analyzer
- * Author: Taylor Chen
- * Date: October 26, 2025
+ * Author: Angelo Genard Claudio
+ * Date: February 2, 2026
  * 
  * This program helps users track expenses, categorize spending,
  * analyze patterns, and maintain a balanced budget.
@@ -292,3 +292,4 @@ class Expense {
                             date, description, amount, category);
     }
 }
+
